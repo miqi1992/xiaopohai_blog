@@ -11,14 +11,14 @@ JAVA反射机制是在运行状态中，对于任意一个类，都能够知道�
 ### 以上的总结就是什么是反射
 反射就是把java类中的各种成分映射成一个个的Java对象
 例如：一个类有：成员变量、方法、构造方法、包等信息，利用反射技术可以对一个类进行解剖，把每个组成部分映射成一个个对象。（其实：一个类中这些成员方法、构造方法、在加入类中都有一个类来描述）如图是类的正常加载过程：反射的原理在于class对象。  
-熟悉一下加载的时候：Class对象的由来是将class文件读入内存，并为之创建一个Class对象。  
-![Class加载过程](http://pa92tkxup.bkt.clouddn.com/image/class_object.png)  
+![img](https://xiaopohai-1254153894.cos.ap-chengdu.myqcloud.com/xiaopohai-blog/v2-c792519aa9ceb6eb55bc6e7f31e1fd21_r.jpg)熟悉一下加载的时候：Class对象的由来是将class文件读入内存，并为之创建一个Class对象。  
+
 其中这个Class对象很特殊，我们先了解一下这个Class类。  
 
 ## 二、查看Class类在java中的api详解
 如何阅读java中的api详见java基础之-String字符串处理
 
-![api_string](http://pa92tkxup.bkt.clouddn.com/image/api_string.png)  
+![img](https://xiaopohai-1254153894.cos.ap-chengdu.myqcloud.com/xiaopohai-blog/v2-0d9b616a26c6895f0c4965f458c970fc_r.jpg)
 
 class类的实例表示正在运行的Java运行程序中的类和接口。也就是jvm中有N多的实例每个类都有该Class对象。(包括基本数据类型)  
 Class 没有公共构造方法。Class 对象是在加载类时由 Java 虚拟机以及通过调用类加载器中的defineClass 方法自动构造的。也就是这不需要我们自己去处理创建，JVM已经帮我们创建好了。  
@@ -427,4 +427,14 @@ Object result = m.invoke(obj, 20);//需要两个参数，一个是要调用的�
 
 
 ### 5、反射main方法
+
+
+
+
+
+## 参考
+
+1. [Java知己](https://www.cnblogs.com/java-friend/archive/2019/09/19/11549038.html)
+
+
 
