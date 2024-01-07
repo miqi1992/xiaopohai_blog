@@ -266,3 +266,7 @@ CSS可以这样写：
 
     *html body{overflow: hidden;}
     *html div#content{height:100%;overflow: auto;}
+    ```
+
+
+[[java 日志框架#^6e4b10|测试一下]]

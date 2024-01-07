@@ -12,7 +12,7 @@
 
 commons-logging是apache推出的日志框架，commons-logging<span style="color:red">只是规定了日志的接口规范</span>，其设计原理类似于jdk中servlet和jdbc的设计。  
 
-&emsp;&emsp;主流的日志系统都实现了commons-logging定义的接口，这样就看通过commons-logging统一的使用的日志，而不用关系具体使用的是哪种日志系统。
+&emsp;&emsp;主流的日志系统都实现了commons-logging定义的接口，这样就看通过commons-logging统一的使用的日志，而不用关系具体使用的是哪种日志系统。 ^6e4b10
 
 ## 日志框架
 
