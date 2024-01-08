@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4007b7cc5aaf5133",
+        "id": "5e165e292a2204e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ed3c3275bc36db88",
+            "id": "4fe31c97e3b1273b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,10 +151,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "4fe31c97e3b1273b",
   "lastOpenFiles": [
-    "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
+    "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Java_DesignPattern/00.intro.md",
     "随记/2024-01-08(周一).md",
     "Java_NIO/README.md",
