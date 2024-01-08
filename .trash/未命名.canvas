@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"935571934567e2e3","x":-168,"y":-26,"width":250,"height":60,"type":"text","text":""},
-		{"id":"0d9634ab11047f2f","x":-440,"y":-360,"width":400,"height":400,"color":"3","type":"file","file":"Mybatis/07.mybatis_case_primaryKey.md"},
-		{"id":"27a03815207e2cd9","x":-243,"y":-196,"width":400,"height":42,"type":"file","file":"Recording 20240106154951.webm"}
-	],
-	"edges":[]
-}
