@@ -26,15 +26,7 @@
               "type": "empty",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1,
-        "stacked": true
-      },
-      {
-        "id": "a5e5e2ed699c206f",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4cc8fa1e266a559d",
             "type": "leaf",
@@ -43,7 +35,9 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
