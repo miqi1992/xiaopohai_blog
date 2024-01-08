@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/2024-01-08(周一).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/2024-01-08(周一).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/2024-01-08(周一).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-07(周日).md"
+                "file": "随记/2024-01-08(周一).md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7790c74b578f9aaa",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
-    "随记/2024-01-08(周一).md",
     "随记/2024-01-07(周日).md",
+    "随记/2024-01-08(周一).md",
     "Wechat/从0到1：JavaScript 快速上手/从0到1：JavaScript 快速上手-莫振杰.md",
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
