@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e165e292a2204e9",
+        "id": "049ad5ce4cc9fec8",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe31c97e3b1273b",
+            "id": "7790c74b578f9aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -159,11 +159,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "4fe31c97e3b1273b",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
-    "Annotation/Highlights template配置_百度搜索.md",
     "Java_DesignPattern/00.intro.md",
     "随记/2024-01-08(周一).md",
     "Java_NIO/README.md",
