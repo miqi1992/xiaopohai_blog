@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/2024-01-08(周一).md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-08(周一).md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-08(周一).md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-08(周一).md"
+                "file": "Java_DesignPattern/00.intro.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +161,8 @@
   },
   "active": "ed3c3275bc36db88",
   "lastOpenFiles": [
-    "Java_NIO/README.md",
     "随记/2024-01-08(周一).md",
+    "Java_NIO/README.md",
     "Java_NIO/11.Java_NIO_Pipe.md",
     "Java_NIO/12.Java_NIO_NioAndIO.md",
     "Java_NIO/JavaNIO视频学习教程.md",
