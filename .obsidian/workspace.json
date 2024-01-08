@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,8 +159,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7790c74b578f9aaa",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "attachment",
     "随记/2024-01-07(周日).md",
     "随记/2024-01-08(周一).md",
     "Annotation/Highlights template配置_百度搜索.md",
@@ -192,7 +192,6 @@
     "公开学习.md",
     "Annotation/zhaohongxuan.github.io",
     "Hypothesis.md",
-    "我的 Obsidian 使用经验  程序员的喵.md",
     "Annotation",
     "Wechat/Python爬虫开发与项目实战",
     "Wechat/深入剖析Nginx",
