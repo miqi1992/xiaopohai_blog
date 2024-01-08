@@ -11,11 +11,10 @@
             "id": "9d570404c38d4012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Java_NIO/README.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_NIO/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_NIO/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java_NIO/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,13 +153,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "9d570404c38d4012",
   "lastOpenFiles": [
+    "Java_NIO/README.md",
     "Java_NIO/11.Java_NIO_Pipe.md",
     "Java_NIO/12.Java_NIO_NioAndIO.md",
     "Java_NIO/JavaNIO视频学习教程.md",
     "Java_NIO/5.Java_NIO_transFromTo.md.md",
-    "Java_NIO/README.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Jetty/未命名.canvas",
     "SpringCloud/02.SpringBoot_advance.md",
