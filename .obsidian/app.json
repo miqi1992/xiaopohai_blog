@@ -4,5 +4,6 @@
   "trashOption": "system",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }
