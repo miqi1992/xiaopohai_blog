@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1ba8f19a3b6b09",
+        "id": "4007b7cc5aaf5133",
         "type": "tabs",
         "children": [
           {
-            "id": "9d570404c38d4012",
+            "id": "ed3c3275bc36db88",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "Java_NIO/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java_NIO/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java_NIO/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java_NIO/README.md"
+              }
             }
           },
           {
@@ -153,7 +158,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9d570404c38d4012",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
     "Java_NIO/README.md",
     "Java_NIO/11.Java_NIO_Pipe.md",
