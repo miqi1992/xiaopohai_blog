@@ -18,25 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86dc1ee1680d5c31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4cc8fa1e266a559d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -103,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Annotation/Highlights template配置_百度搜索.md"
+              }
             }
           },
           {
@@ -173,7 +160,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "4cc8fa1e266a559d",
+  "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
