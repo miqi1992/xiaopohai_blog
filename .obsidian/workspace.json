@@ -11,8 +11,11 @@
             "id": "9d570404c38d4012",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-hypothesis-plugin/data.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -150,7 +153,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "9d570404c38d4012",
   "lastOpenFiles": [
     "Jetty/未命名.canvas",
     "SpringCloud/02.SpringBoot_advance.md",
