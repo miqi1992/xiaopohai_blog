@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +159,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
     "随记/2024-01-08(周一).md",
     "随记/2024-01-07(周日).md",
