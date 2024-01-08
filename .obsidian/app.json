@@ -1,9 +1,10 @@
 {
   "defaultViewMode": "source",
   "strictLineBreaks": true,
-  "trashOption": "system",
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "promptDelete": false,
-  "showInlineTitle": false
+  "promptDelete": true,
+  "showInlineTitle": false,
+  "newFileLocation": "current"
 }
