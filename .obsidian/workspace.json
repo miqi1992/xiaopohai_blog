@@ -136,6 +136,18 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "bd95dd3bb5711518",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 4
