@@ -18,9 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86dc1ee1680d5c31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
+      },
+      {
+        "id": "a5e5e2ed699c206f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc8fa1e266a559d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,11 +179,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "86dc1ee1680d5c31",
   "lastOpenFiles": [
+    "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
-    "Annotation/Highlights template配置_百度搜索.md",
     "随记/2024-01-08(周一).md",
     "随记/2024-01-07(周日).md",
     "Wechat/从0到1：JavaScript 快速上手/从0到1：JavaScript 快速上手-莫振杰.md",
