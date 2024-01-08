@@ -11,12 +11,8 @@
             "id": "7790c74b578f9aaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随记/2024-01-07(周日).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "随记/2024-01-07(周日).md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,8 +153,8 @@
   },
   "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
-    "随记/2024-01-08(周一).md",
     "随记/2024-01-07(周日).md",
+    "随记/2024-01-08(周一).md",
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
