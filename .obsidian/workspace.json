@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "Template/template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "Template/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "Template/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-07(周日).md"
+                "file": "Template/template.md"
               }
             }
           },
@@ -171,10 +171,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
-    "Attachment",
+    "Template/daily_template.md",
+    "Template/template.md",
+    "Template/template1.md",
     "随记/2024-01-07(周日).md",
+    "Attachment",
     "随记/2024-01-08(周一).md",
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
@@ -193,8 +196,6 @@
     "test/qweqw.md.md",
     "ELK/01.elasticsearch_setupAndRun.md",
     "test",
-    "Template/template1.md",
-    "Template/daily_template.md",
     "2024-01-07.md",
     "Template",
     "随记",
@@ -209,7 +210,6 @@
     "Wechat/深入剖析Nginx",
     "Wechat/Python极简讲义：一本书入门数据分析与机器学习",
     "Wechat/深入浅出PostgreSQL",
-    "Wechat/活到天年",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
   ]
