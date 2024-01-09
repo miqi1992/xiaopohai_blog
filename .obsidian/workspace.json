@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6813d78eea8cef",
-        "type": "split",
+        "id": "049ad5ce4cc9fec8",
+        "type": "tabs",
         "children": [
           {
-            "id": "049ad5ce4cc9fec8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7790c74b578f9aaa",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Attachment/Pasted image 20240109232217.png"
-                  }
-                }
+            "id": "7790c74b578f9aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随记/2024-01-07(周日).md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "d2d434792836d6ad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a1876170f2dd1d92",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Pasted image 20240109232217.png",
+                "file": "随记/2024-01-07(周日).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachment/Pasted image 20240109232217.png",
+                "file": "随记/2024-01-07(周日).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachment/Pasted image 20240109232217.png"
+                "file": "随记/2024-01-07(周日).md"
               }
             }
           },
@@ -198,11 +179,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
-    "随记/2024-01-07(周日).md",
-    "Attachment/Pasted image 20240109232217.png",
     "随记/2024-01-08(周一).md",
+    "Attachment/Pasted image 20240109232217.png",
+    "随记/2024-01-07(周日).md",
     "Person/github-recovery-codes.md",
     "Annotation/Highlights template配置_百度搜索.md",
     "Attachment/github-recovery-codes.txt",
