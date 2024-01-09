@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "049ad5ce4cc9fec8",
-        "type": "tabs",
+        "id": "2eb57a0bc098ac6f",
+        "type": "split",
         "children": [
           {
-            "id": "7790c74b578f9aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随记/2024-01-07(周日).md",
-                "mode": "source",
-                "source": false
+            "id": "049ad5ce4cc9fec8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7790c74b578f9aaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "随记/2024-01-07(周日).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "1437ee34ebc2d065",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "61f1bba0b839c7e8",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
