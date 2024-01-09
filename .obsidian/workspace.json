@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb57a0bc098ac6f",
+        "id": "e7d013734911e0be",
         "type": "split",
         "children": [
           {
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "1437ee34ebc2d065",
+            "id": "6505e3e802e3cc75",
             "type": "tabs",
             "children": [
               {
-                "id": "61f1bba0b839c7e8",
+                "id": "99b2bdb0aa994f4e",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
