@@ -16,15 +16,15 @@
   "FocusOnEditor": true,
   "OpenDailyMemosWithMemos": true,
   "HideDoneTasks": false,
-  "ShowTaskLabel": false,
-  "OpenMemosAutomatically": false,
+  "ShowTaskLabel": true,
+  "OpenMemosAutomatically": true,
   "ShowTime": true,
   "ShowDate": true,
   "AddBlankLineWhenDate": false,
   "AutoSaveWhenOnMobile": false,
   "DeleteFileName": "delete",
   "QueryFileName": "query",
-  "UseVaultTags": false,
+  "UseVaultTags": true,
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
   "DefaultMemoComposition": "{TIME} {CONTENT}",
@@ -33,5 +33,5 @@
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
-  "ShowLeftSideBar": false
+  "ShowLeftSideBar": true
 }
