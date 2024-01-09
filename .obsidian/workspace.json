@@ -156,14 +156,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c0fe277bcf8635fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
