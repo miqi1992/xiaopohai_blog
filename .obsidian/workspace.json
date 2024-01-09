@@ -14,8 +14,19 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "1de11e350281ee14",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+              }
             }
           },
           {
@@ -180,7 +195,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "79f99c5739cda420",
+  "active": "1de11e350281ee14",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
     "随记/2024-01-09(周二).md",
