@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
+                "file": "Person/github-recovery-codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
+                "file": "Person/github-recovery-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
+                "file": "Person/github-recovery-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md"
+                "file": "Person/github-recovery-codes.md"
               }
             }
           },
@@ -179,8 +180,9 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
+    "Annotation/Highlights template配置_百度搜索.md",
     "Person/github-recovery-codes.md",
     "Attachment/github-recovery-codes.txt",
     "Work/育儿中心V2.5.md",
@@ -193,7 +195,6 @@
     "Template/template.md",
     "Template/template1.md",
     "Attachment",
-    "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
     "Wechat/从0到1：JavaScript 快速上手/从0到1：JavaScript 快速上手-莫振杰.md",
