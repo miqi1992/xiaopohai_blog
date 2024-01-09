@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "053abeae9f51ef7a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +180,7 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7790c74b578f9aaa",
+  "active": "053abeae9f51ef7a",
   "lastOpenFiles": [
     "Attachment/github-recovery-codes.txt",
     "Work/育儿中心V2.5.md",
