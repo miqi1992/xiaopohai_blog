@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 200
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -181,8 +181,8 @@
   },
   "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
-    "随记/2024-01-07(周日).md",
     "随记/2024-01-09(周二).md",
+    "随记/2024-01-07(周日).md",
     "随记/2024-01-08(周一).md",
     "Attachment/Pasted image 20240109232217.png",
     "Person/github-recovery-codes.md",
