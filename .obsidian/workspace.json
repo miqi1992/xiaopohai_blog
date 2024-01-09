@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/template.md",
+                "file": "Work/育儿中心V2.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/template.md",
+                "file": "Work/育儿中心V2.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/template.md",
+                "file": "Work/育儿中心V2.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/template.md"
+                "file": "Work/育儿中心V2.5.md"
               }
             }
           },
@@ -174,6 +174,8 @@
   "active": "7790c74b578f9aaa",
   "lastOpenFiles": [
     "Template/daily_template.md",
+    "Work/育儿中心V2.5.md",
+    "Work",
     "Template/template.md",
     "Template/template1.md",
     "随记/2024-01-07(周日).md",
@@ -204,12 +206,10 @@
     "Annotation/zhaohongxuan.github.io/我的Obsidian笔记工作流.md",
     "公开学习.md",
     "Annotation/zhaohongxuan.github.io",
-    "Hypothesis.md",
     "Annotation",
     "Wechat/Python爬虫开发与项目实战",
     "Wechat/深入剖析Nginx",
     "Wechat/Python极简讲义：一本书入门数据分析与机器学习",
-    "Wechat/深入浅出PostgreSQL",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
   ]
