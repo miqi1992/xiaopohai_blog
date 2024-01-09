@@ -15,11 +15,9 @@
                 "id": "7790c74b578f9aaa",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "随记/2024-01-07(周日).md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Attachment/Pasted image 20240109232217.png"
                   }
                 }
               }
@@ -98,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 423.5
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "Attachment/Pasted image 20240109232217.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "Attachment/Pasted image 20240109232217.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-07(周日).md"
+                "file": "Attachment/Pasted image 20240109232217.png"
               }
             }
           },
@@ -200,10 +198,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7790c74b578f9aaa",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
-    "随记/2024-01-08(周一).md",
     "随记/2024-01-07(周日).md",
+    "Attachment/Pasted image 20240109232217.png",
+    "随记/2024-01-08(周一).md",
     "Person/github-recovery-codes.md",
     "Annotation/Highlights template配置_百度搜索.md",
     "Attachment/github-recovery-codes.txt",
