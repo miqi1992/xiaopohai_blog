@@ -8,20 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f99c5739cda420",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "1de11e350281ee14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+                "file": "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b2f42ba3f701682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
+                "file": "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
+                "file": "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+                "file": "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md"
               }
             }
           },
@@ -195,8 +201,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1de11e350281ee14",
+  "active": "3b2f42ba3f701682",
   "lastOpenFiles": [
+    "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
+    "Annotation/Highlights template配置_百度搜索.md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
     "随记/2024-01-09(周二).md",
     "Excalidraw",
@@ -204,7 +212,6 @@
     "随记/2024-01-08(周一).md",
     "Attachment/Pasted image 20240109232217.png",
     "Person/github-recovery-codes.md",
-    "Annotation/Highlights template配置_百度搜索.md",
     "Attachment/github-recovery-codes.txt",
     "Work/育儿中心V2.5.md",
     "Person/github-recovery-codes.txt",
@@ -215,7 +222,6 @@
     "Template/template1.md",
     "Attachment",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
-    "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
     "Wechat/从0到1：JavaScript 快速上手/从0到1：JavaScript 快速上手-莫振杰.md",
     "Java_DesignPattern/00.intro.md",
     "Java_NIO/README.md",
