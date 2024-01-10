@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/边框/01. CSS3边框简介.md",
+                "file": "Work/育儿中心V2.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/边框/01. CSS3边框简介.md",
+                "file": "Work/育儿中心V2.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/边框/01. CSS3边框简介.md",
+                "file": "Work/育儿中心V2.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/边框/01. CSS3边框简介.md"
+                "file": "Work/育儿中心V2.5.md"
               }
             }
           },
@@ -204,6 +203,7 @@
   },
   "active": "c2820de09807e9d1",
   "lastOpenFiles": [
+    "CSS/边框/01. CSS3边框简介.md",
     "CSS/grammar/grammar_cascading.md",
     "CSS/grammar/grammar_PseudoEle.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
@@ -237,7 +237,6 @@
     "SpringCloud/01.SpringBoot_intro.md",
     "SpringCloud/00.README.md",
     "test/qweqw.md.md",
-    "ELK/01.elasticsearch_setupAndRun.md",
     "test",
     "Template",
     "随记",
