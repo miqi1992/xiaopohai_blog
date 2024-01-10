@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/2024-01-10(周三).md",
+                "file": "Template/日记模版.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(第一章)",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-10(周三).md",
+                "file": "Template/日记模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-10(周三).md",
+                "file": "Template/日记模版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-10(周三).md"
+                "file": "Template/日记模版.md"
               }
             }
           },
@@ -166,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,10 +190,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "1de11e350281ee14",
+  "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
-    "CSS/grammar/grammar_cascading.md",
     "随记/2024-01-10(周三).md",
+    "CSS/grammar/grammar_cascading.md",
     "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
     "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
@@ -217,7 +218,7 @@
     "Attachment/github-recovery-codes.txt",
     "Person/github-recovery-codes.txt",
     "Person",
-    "Template/daily_template.md",
+    "Template/日记模版.md",
     "Work",
     "Template/template.md",
     "Template/template1.md",
