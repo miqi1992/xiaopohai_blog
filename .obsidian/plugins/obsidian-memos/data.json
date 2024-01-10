@@ -28,7 +28,7 @@
   "DefaultLightBackgroundImage": "",
   "DefaultDarkBackgroundImage": "",
   "DefaultMemoComposition": "{TIME} {CONTENT}",
-  "CommentOnMemos": false,
+  "CommentOnMemos": true,
   "CommentsInOriginalNotes": false,
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
