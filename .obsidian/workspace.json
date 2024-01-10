@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/日记模版.md",
+                "file": "CSS/grammar/grammar_selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/日记模版.md",
+                "file": "CSS/grammar/grammar_selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/日记模版.md",
+                "file": "CSS/grammar/grammar_selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/日记模版.md"
+                "file": "CSS/grammar/grammar_selector.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
+    "Template/日记模版.md",
     "随记/2024-01-10(周三).md",
     "CSS/grammar/grammar_cascading.md",
     "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
@@ -218,7 +219,6 @@
     "Attachment/github-recovery-codes.txt",
     "Person/github-recovery-codes.txt",
     "Person",
-    "Template/日记模版.md",
     "Work",
     "Template/template.md",
     "Template/template1.md",
