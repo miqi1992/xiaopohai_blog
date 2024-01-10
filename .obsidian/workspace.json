@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(设计模式 花园 模式领域里程碑的事件)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_DesignPattern/00.intro.md",
+                "file": "随记/2024-01-07(周日).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_DesignPattern/00.intro.md",
+                "file": "随记/2024-01-07(周日).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java_DesignPattern/00.intro.md"
+                "file": "随记/2024-01-07(周日).md"
               }
             }
           },
@@ -209,8 +209,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "3afe20a7133c39dd",
+  "active": "27e1524f979c8cac",
   "lastOpenFiles": [
+    "Java_DesignPattern/00.intro.md",
     "随记/delete.md",
     "随记/2024-01-07(周日).md",
     "JavaEE/05.servlet_HttpServletResponse02.md",
@@ -237,7 +238,6 @@
     "微信公众号/Getting Started with Omnivore.md",
     "微信公众号",
     "CSS/边框/01. CSS3边框简介.md",
-    "CSS/grammar/grammar_PseudoEle.md",
     "Excalidraw",
     "Attachment/Pasted image 20240109232217.png",
     "Attachment/github-recovery-codes.txt",
