@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(设计模式 花园 )",
+                "query": "section:(设计模式 花园 模式领域里程碑的事件)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
