@@ -1,6 +1,3 @@
----
-id: a8dcba4e-19d1-4bcb-af46-3d1a51bcdd0a
----
 
 # 背八股文和 DEBUG 源码，差别在哪？
 #Omnivore
