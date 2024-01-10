@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "设计模式 介绍",
+                "query": "line: ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
