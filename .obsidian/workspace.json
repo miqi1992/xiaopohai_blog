@@ -11,9 +11,11 @@
             "id": "1de11e350281ee14",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+                "file": "Annotation/Highlights template配置_百度搜索.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#Omnivore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
+                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
+                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md"
+                "file": "Annotation/Highlights template配置_百度搜索.md"
               }
             }
           },
@@ -188,10 +190,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "3afe20a7133c39dd",
+  "active": "182d31a6a13ba636",
   "lastOpenFiles": [
-    "随记/2024-01-09(周二).md",
+    "CSS/grammar/grammar_unit.md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
+    "随记/2024-01-09(周二).md",
     "ELK/Elasticsearch文档--Index API.md",
     "ELK/Elasticsearch_search.md",
     "Mybatis/01.mybatis与jdbc.md",
@@ -218,7 +221,6 @@
     "随记/2024-01-07(周日).md",
     "随记/2024-01-08(周一).md",
     "Attachment/Pasted image 20240109232217.png",
-    "Person/github-recovery-codes.md",
     "Attachment/github-recovery-codes.txt",
     "Person/github-recovery-codes.txt",
     "Person",
