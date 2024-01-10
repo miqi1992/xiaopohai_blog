@@ -175,17 +175,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:查看关系图谱": false,
+      "obsidian-memos:Memos": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "command-palette:打开命令面板": true,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-memos:Memos": false,
       "obsidian-omnivore:Omnivore": false
     }
   },
