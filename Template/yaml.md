@@ -4,5 +4,3 @@
 	rating: 8
 	time: {{datetime}}
 	tags: 
-- 
----

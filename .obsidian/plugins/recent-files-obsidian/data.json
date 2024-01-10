@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "Template/未命名.md"
+      "basename": "yaml",
+      "path": "Template/yaml.md"
+    },
+    {
+      "basename": "2024-01-11(周四)",
+      "path": "随记/2024-01-11(周四).md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "Template/日记模版.md"
     },
     {
       "basename": "2024-01-07(周日)",
@@ -43,10 +51,6 @@
     {
       "basename": "README",
       "path": "HTML/README.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "Template/日记模版.md"
     },
     {
       "basename": "The Secret Power of ‘Read It Later’ Apps",

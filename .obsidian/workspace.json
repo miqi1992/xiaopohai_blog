@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/未命名.md",
-                "mode": "preview",
+                "file": "Template/yaml.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/yaml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/未命名.md"
+                "file": "Template/yaml.md"
               }
             }
           },
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +210,10 @@
   },
   "active": "27e1524f979c8cac",
   "lastOpenFiles": [
+    "随记/2024-01-11(周四).md",
+    "Template/yaml.md",
+    "Template/日记模版.md",
     "随记/2024-01-07(周日).md",
-    "Template/未命名.md",
     "Work/未命名 1.md",
     "随记/2024-01-09(周二).md",
     "随记/2024-01-10(周三).md",
@@ -224,7 +225,6 @@
     "Obsidian使用",
     "Java_DesignPattern/00.intro.md",
     "HTML/README.md",
-    "Template/日记模版.md",
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
     "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
     "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md",
@@ -237,7 +237,6 @@
     "ELK/Elasticsearch文档--Index API.md",
     "ELK/Elasticsearch_search.md",
     "Mybatis/01.mybatis与jdbc.md",
-    "ELK/Mapping学习之_routing.md",
     "微信公众号",
     "Excalidraw",
     "Attachment/Pasted image 20240109232217.png",
