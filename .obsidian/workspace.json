@@ -184,7 +184,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:查看关系图谱": false,
-      "obsidian-memos:Memos": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -193,7 +192,8 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "37c2b976811555ae",
