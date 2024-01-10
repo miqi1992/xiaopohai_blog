@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2820de09807e9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
+                "file": "CSS/grammar/grammar_cascading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
+                "file": "CSS/grammar/grammar_cascading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md"
+                "file": "CSS/grammar/grammar_cascading.md"
               }
             }
           },
@@ -202,10 +189,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "c2820de09807e9d1",
+  "active": "1de11e350281ee14",
   "lastOpenFiles": [
-    "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
     "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
+    "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
     "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md",
     "微信公众号/obsidian使用开源的omnivore快速保存微信公众号文章到obsidian中_omnivore 使用-CSDN博客.md",
