@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "grammar_cascading",
+      "path": "CSS/grammar/grammar_cascading.md"
+    },
+    {
       "basename": "SQL中的 CASE 表达式妙用，涨姿势了！",
       "path": "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "01. CSS3边框简介",
       "path": "CSS/边框/01. CSS3边框简介.md"
-    },
-    {
-      "basename": "grammar_cascading",
-      "path": "CSS/grammar/grammar_cascading.md"
     },
     {
       "basename": "grammar_PseudoEle",
