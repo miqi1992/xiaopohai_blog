@@ -38,8 +38,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4199612db5d28eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随记/delete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ht",
+                "query": "HTML or ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-07(周日).md"
+                "file": "随记/delete.md"
               }
             }
           },
@@ -196,10 +209,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9b653386a9e035bd",
+  "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
-    "JavaEE/05.servlet_HttpServletResponse02.md",
     "随记/2024-01-07(周日).md",
+    "JavaEE/05.servlet_HttpServletResponse02.md",
     "HTML/README.md",
     "随记/2024-01-10(周三).md",
     "随记/delete.md",
