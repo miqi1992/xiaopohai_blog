@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/yaml.md",
+                "file": "随记/2024-01-11(周四).md",
                 "mode": "source",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/yaml.md",
+                "file": "随记/2024-01-11(周四).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/yaml.md",
+                "file": "随记/2024-01-11(周四).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/yaml.md"
+                "file": "随记/2024-01-11(周四).md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "27e1524f979c8cac",
   "lastOpenFiles": [
-    "随记/2024-01-11(周四).md",
     "Template/yaml.md",
+    "随记/2024-01-11(周四).md",
     "Template/日记模版.md",
     "随记/2024-01-07(周日).md",
     "Work/未命名 1.md",
