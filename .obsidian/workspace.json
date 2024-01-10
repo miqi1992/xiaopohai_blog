@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/delete.md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTML or ",
+                "query": "设计模式AN介绍",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/delete.md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/delete.md",
+                "file": "Java_DesignPattern/00.intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/delete.md"
+                "file": "Java_DesignPattern/00.intro.md"
               }
             }
           },
@@ -211,11 +211,11 @@
   },
   "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
+    "随记/delete.md",
     "随记/2024-01-07(周日).md",
     "JavaEE/05.servlet_HttpServletResponse02.md",
     "HTML/README.md",
     "随记/2024-01-10(周三).md",
-    "随记/delete.md",
     "Work/育儿中心V2.5.md",
     "Template/日记模版.md",
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
