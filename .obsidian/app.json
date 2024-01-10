@@ -8,5 +8,6 @@
   "showInlineTitle": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false
 }
