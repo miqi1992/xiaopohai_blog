@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2143517033246fdc",
+        "id": "6e6e76f262ecb015",
         "type": "tabs",
         "children": [
           {
-            "id": "1de11e350281ee14",
+            "id": "9b653386a9e035bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Annotation/Highlights template配置_百度搜索.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,8 +182,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "182d31a6a13ba636",
+  "active": "9b653386a9e035bd",
   "lastOpenFiles": [
+    "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
+    "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
+    "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md",
+    "微信公众号/Organize your Omnivore library with labels.md",
+    "微信公众号/obsidian使用开源的omnivore快速保存微信公众号文章到obsidian中_omnivore 使用-CSDN博客.md",
+    "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
+    "Annotation/Highlights template配置_百度搜索.md",
     "CSS/grammar/grammar_unit.md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
     "随记/2024-01-09(周二).md",
@@ -199,18 +198,11 @@
     "ELK/Elasticsearch_search.md",
     "Mybatis/01.mybatis与jdbc.md",
     "ELK/Mapping学习之_routing.md",
-    "Annotation/Highlights template配置_百度搜索.md",
     "CSS/grammar/grammar_selector.md",
     "Template/日记模版.md",
     "随记/2024-01-10(周三).md",
     "CSS/grammar/grammar_cascading.md",
-    "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
-    "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
-    "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
-    "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md",
-    "微信公众号/obsidian使用开源的omnivore快速保存微信公众号文章到obsidian中_omnivore 使用-CSDN博客.md",
     "微信公众号/Getting Started with Omnivore.md",
-    "微信公众号/Organize your Omnivore library with labels.md",
     "Work/育儿中心V2.5.md",
     "微信公众号",
     "CSS/边框/01. CSS3边框简介.md",

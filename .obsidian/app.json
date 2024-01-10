@@ -7,5 +7,6 @@
   "promptDelete": true,
   "showInlineTitle": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachment"
+  "attachmentFolderPath": "Attachment",
+  "propertiesInDocument": "hidden"
 }
