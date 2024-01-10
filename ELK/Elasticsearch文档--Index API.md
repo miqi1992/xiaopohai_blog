@@ -228,7 +228,6 @@ PUT /my_index5/my_type/1?ttl=2m
 }
 
 GET /my_index5/my_type/1
-#回应如下
 {
   "_index": "my_index5",
   "_type": "my_type",

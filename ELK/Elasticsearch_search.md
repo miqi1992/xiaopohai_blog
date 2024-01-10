@@ -27,7 +27,6 @@ POST /my_test_match/my_type/_search
     }
   }
 }
-#回应如下
 {
    "error": {
       "root_cause": [
