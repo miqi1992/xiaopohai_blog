@@ -14,8 +14,21 @@
               "type": "memos_view",
               "state": {}
             }
+          },
+          {
+            "id": "27e1524f979c8cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "随记/2024-01-07(周日).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "随记/2024-01-07(周日).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "随记/2024-01-07(周日).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "随记/2024-01-07(周日).md"
+              }
             }
           },
           {
@@ -167,7 +184,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9b653386a9e035bd",
+  "active": "27e1524f979c8cac",
   "lastOpenFiles": [
     "随记/delete.md",
     "Work/育儿中心V2.5.md",
