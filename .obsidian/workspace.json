@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,12 +210,14 @@
   },
   "active": "27e1524f979c8cac",
   "lastOpenFiles": [
-    "Java_DesignPattern/00.intro.md",
-    "随记/delete.md",
-    "随记/2024-01-07(周日).md",
-    "JavaEE/05.servlet_HttpServletResponse02.md",
-    "HTML/README.md",
+    "随记/2024-01-08(周一).md",
+    "随记/2024-01-09(周二).md",
     "随记/2024-01-10(周三).md",
+    "JavaEE/05.servlet_HttpServletResponse02.md",
+    "Java_DesignPattern/00.intro.md",
+    "随记/2024-01-07(周日).md",
+    "随记/delete.md",
+    "HTML/README.md",
     "Work/育儿中心V2.5.md",
     "Template/日记模版.md",
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
@@ -228,7 +229,6 @@
     "Annotation/Highlights template配置_百度搜索.md",
     "CSS/grammar/grammar_unit.md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
-    "随记/2024-01-09(周二).md",
     "ELK/Elasticsearch文档--Index API.md",
     "ELK/Elasticsearch_search.md",
     "Mybatis/01.mybatis与jdbc.md",
@@ -237,7 +237,6 @@
     "CSS/grammar/grammar_cascading.md",
     "微信公众号/Getting Started with Omnivore.md",
     "微信公众号",
-    "CSS/边框/01. CSS3边框简介.md",
     "Excalidraw",
     "Attachment/Pasted image 20240109232217.png",
     "Attachment/github-recovery-codes.txt",
