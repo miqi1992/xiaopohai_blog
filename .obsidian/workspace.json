@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Omnivore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "9b653386a9e035bd",
+  "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
     "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
