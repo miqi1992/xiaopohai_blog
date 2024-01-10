@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(设计模式 话题)",
+                "query": "section:(设计模式 花园 )",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
