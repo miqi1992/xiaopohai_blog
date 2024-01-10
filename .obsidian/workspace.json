@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "909a50187e2f3da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/育儿中心V2.5.md",
+                "file": "Work/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/育儿中心V2.5.md",
+                "file": "Work/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/育儿中心V2.5.md"
+                "file": "Work/未命名 1.md"
               }
             }
           },
@@ -208,11 +220,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "909a50187e2f3da9",
   "lastOpenFiles": [
+    "Work/育儿中心V2.5.md",
+    "Work/未命名 1.md",
+    "Work/未命名.md",
     "随记/2024-01-09(周二).md",
     "随记/2024-01-07(周日).md",
-    "Work/育儿中心V2.5.md",
     "随记/2024-01-10(周三).md",
     "随记/2024-01-08(周一).md",
     "随记/delete.md",
@@ -235,7 +249,6 @@
     "Mybatis/01.mybatis与jdbc.md",
     "ELK/Mapping学习之_routing.md",
     "CSS/grammar/grammar_selector.md",
-    "CSS/grammar/grammar_cascading.md",
     "微信公众号",
     "Excalidraw",
     "Attachment/Pasted image 20240109232217.png",
