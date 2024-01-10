@@ -185,7 +185,6 @@ a:visited{color: green;}
 3. 目标伪类:target(IE8-不支持)
 匹配锚点对应的目标元素
 :target{color:red;} 
-#niha
 :target{color: red;}  //id为test的目标元素
 4. UI元素伪类(IE8-不支持)
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/grammar/grammar_selector.md",
+                "file": "Mybatis/01.mybatis与jdbc.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
+                "query": "tag:#Mybatis的学习使用",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/grammar/grammar_selector.md",
+                "file": "Mybatis/01.mybatis与jdbc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/grammar/grammar_selector.md",
+                "file": "Mybatis/01.mybatis与jdbc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/grammar/grammar_selector.md"
+                "file": "Mybatis/01.mybatis与jdbc.md"
               }
             }
           },
@@ -190,8 +190,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "3afe20a7133c39dd",
+  "active": "1de11e350281ee14",
   "lastOpenFiles": [
+    "ELK/Mapping学习之_routing.md",
+    "Annotation/Highlights template配置_百度搜索.md",
+    "CSS/grammar/grammar_selector.md",
     "Template/日记模版.md",
     "随记/2024-01-10(周三).md",
     "CSS/grammar/grammar_cascading.md",
@@ -208,7 +211,6 @@
     "CSS/grammar/grammar_PseudoEle.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
-    "Annotation/Highlights template配置_百度搜索.md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
     "随记/2024-01-09(周二).md",
     "Excalidraw",
@@ -224,8 +226,6 @@
     "Template/template1.md",
     "Attachment",
     "Wechat/从0到1：JavaScript 快速上手/从0到1：JavaScript 快速上手-莫振杰.md",
-    "Java_DesignPattern/00.intro.md",
-    "Java_NIO/README.md",
     "Jetty/未命名.canvas",
     "test",
     "Template",

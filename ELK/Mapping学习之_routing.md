@@ -1,4 +1,4 @@
-#routing设置
+
 PUT /my_index/my_type/1?routing=user1
 {
   "title":"This is a document"
@@ -38,7 +38,6 @@ GET my_index2/my_type/1?routing=usr1
 DELETE /my_index*
 
 
-#设置父子
 PUT my_index3
 {
   "mappings": {
