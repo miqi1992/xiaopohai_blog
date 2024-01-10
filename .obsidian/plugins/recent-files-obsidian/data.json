@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "grammar_cascading",
+      "path": "CSS/grammar/grammar_cascading.md"
+    },
+    {
       "basename": "背八股文和 DEBUG 源码，差别在哪？",
       "path": "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "育儿中心V2.5",
       "path": "Work/育儿中心V2.5.md"
-    },
-    {
-      "basename": "grammar_cascading",
-      "path": "CSS/grammar/grammar_cascading.md"
     },
     {
       "basename": "01. CSS3边框简介",
