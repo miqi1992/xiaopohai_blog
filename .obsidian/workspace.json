@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -197,7 +198,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2ec4850070716e11",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
     "随记/2024-01-09(周二).md",
     "Work/未命名.md",
