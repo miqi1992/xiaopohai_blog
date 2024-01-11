@@ -16,30 +16,6 @@
             }
           },
           {
-            "id": "27e1524f979c8cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随记/2024-01-07(周日).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce4cc515010b3cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java_NIO/README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "37c2b976811555ae",
             "type": "leaf",
             "state": {
@@ -64,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 213.5
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -138,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/2024-01-09(周二).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-07(周日).md",
+                "file": "随记/2024-01-09(周二).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-07(周日).md"
+                "file": "随记/2024-01-09(周二).md"
               }
             }
           },
@@ -221,19 +197,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "27e1524f979c8cac",
+  "active": "2ec4850070716e11",
   "lastOpenFiles": [
+    "Work/育儿中心V2.5.md",
+    "Java_NIO/README.md",
+    "随记/2024-01-07(周日).md",
     "随记/2024-01-10(周三).md",
     "随记/2024-01-11(周四).md",
     "随记/Readme.md",
     "Work/未命名 1.md",
-    "随记/2024-01-07(周日).md",
-    "Java_NIO/README.md",
     "ELK/00、README.md",
     "Template/yaml.md",
     "Template/日记模版.md",
     "随记/2024-01-09(周二).md",
-    "Work/育儿中心V2.5.md",
     "Work/未命名.md",
     "随记/2024-01-08(周一).md",
     "随记/delete.md",
