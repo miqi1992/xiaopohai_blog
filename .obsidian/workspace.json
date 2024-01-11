@@ -199,11 +199,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +221,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "27e1524f979c8cac",
+  "active": "182d31a6a13ba636",
   "lastOpenFiles": [
     "随记/2024-01-07(周日).md",
     "Java_NIO/README.md",
