@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/2024-01-11(周四).md",
-                "mode": "preview",
+                "file": "随记/2024-01-10(周三).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -118,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-01-11(周四).md",
+                "file": "随记/2024-01-10(周三).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-01-11(周四).md",
+                "file": "随记/2024-01-10(周三).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-01-11(周四).md"
+                "file": "随记/2024-01-10(周三).md"
               }
             }
           },
@@ -222,14 +221,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "27e1524f979c8cac",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "随记/2024-01-11(周四).md",
     "随记/Readme.md",
     "Work/未命名 1.md",
     "随记/2024-01-07(周日).md",
     "Java_NIO/README.md",
     "ELK/00、README.md",
-    "随记/2024-01-11(周四).md",
     "Template/yaml.md",
     "Template/日记模版.md",
     "随记/2024-01-09(周二).md",
