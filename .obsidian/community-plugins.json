@@ -1,16 +1,7 @@
 [
-  "dataview",
-  "obsidian-weread-plugin",
-  "obsidian-hypothesis-plugin",
   "obsidian-git",
-  "obsidian-tasks-plugin",
-  "obsidian-minimal-settings",
   "file-explorer-note-count",
   "recent-files-obsidian",
-  "obsidian-mind-map",
   "calendar",
-  "obsidian-memos",
-  "obsidian-excalidraw-plugin",
-  "quick-explorer",
-  "obsidian-omnivore"
+  "obsidian-memos"
 ]
