@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Attachment  ",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 11.4469401041667,
   "linkStrength": 1,
   "linkDistance": 344,
-  "scale": 0.38062768742977054,
-  "close": false
+  "scale": 0.33931874568553955,
+  "close": true
 }
