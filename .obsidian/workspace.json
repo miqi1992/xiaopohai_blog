@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "2ec4850070716e11",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "684ec79f5a0f7d82",
             "type": "leaf",
             "state": {
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,14 +169,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "c0fe277bcf8635fa",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -202,12 +186,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": true,
-      "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-memos:Memos": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "482968c5e626d061",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-13 09.23.28.excalidraw.md",
     "随记/2024-01-13(周六).md",
