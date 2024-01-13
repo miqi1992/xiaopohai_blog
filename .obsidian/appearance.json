@@ -1,7 +1,7 @@
 {
-  "accentColor": "#f2df0d",
+  "accentColor": "",
   "translucency": false,
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "theme": "moonstone",
   "nativeMenus": false
 }
