@@ -31,7 +31,7 @@
   "CommentOnMemos": true,
   "CommentsInOriginalNotes": false,
   "FetchMemosMark": "#memo",
-  "FetchMemosFromNote": false,
-  "ShowCommentOnMemos": false,
+  "FetchMemosFromNote": true,
+  "ShowCommentOnMemos": true,
   "ShowLeftSideBar": true
 }
