@@ -4,14 +4,5 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "nativeMenus": false,
-  "enabledCssSnippets": [
-    "Spectrum",
-    "Subtlegold",
-    "Solarized",
-    "Rmaki",
-    "Pisum",
-    "Palatinate",
-    "obsidian_ia",
-    "Big Sur Aesthetic"
-  ]
+  "enabledCssSnippets": []
 }
