@@ -6,6 +6,11 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "Spectrum",
-    "Subtlegold"
+    "Subtlegold",
+    "Solarized",
+    "Rmaki",
+    "Pisum",
+    "Palatinate",
+    "obsidian_ia"
   ]
 }
