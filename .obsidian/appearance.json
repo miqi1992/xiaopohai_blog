@@ -3,5 +3,9 @@
   "translucency": false,
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "80s Neon",
+    "Atom"
+  ]
 }
