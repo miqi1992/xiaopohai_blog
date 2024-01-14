@@ -1,10 +1,10 @@
-##前言
+## 前言
 <p><object style="display: block; position: absolute; top:10px; left:500px;" width="340" height="80" data="http://music.163.com/style/swf/widget.swf?sid=175206&amp;type=2&amp;auto=0&amp;width=320&amp;height=66" type="application/x-shockwave-flash"></object></p>
 <blockquote>
     ES提供了丰富多彩的查询接口，可以满足各种各样的查询要求。更多内容请参考:<a href="">ELK修炼之道</a>
 </blockquote>
 
-###Query DSL结构化查询
+### Query DSL结构化查询
 
 - Query DSL是一个Java开源框架用于构建类型安全的SQL查询语句。采用API代替传统的拼接字符串来构造查询语句。目前Querydsl支持的平台包括JPA,JDO，SQL，Java Collections，RDF，Lucene，Hibernate Search。   
 - elasticsearch提供了一整套基于JSON的查询DSL语言来定义查询。  
@@ -36,11 +36,11 @@ GET _search
 **Compound query clauses 复杂查询**  
 复杂查询可以包含叶子或者其它的复杂查询语句，用于组合成复杂的查询语句，比如not, bool等。
 
-**
-查询虽然包含这两种，但是查询的行为还与查询的执行环境有关，不同的执行环境，查询操作也不一样。**  
+**查询虽然包含这两种，但是查询的行为还与查询的执行环境有关，不同的执行环境，查询操作也不一样。**  
+
 查询的行为取决于他们所在的查询上下文，包括Query查询上下文和Filter查询上下文。  
 
-##查询与过滤
+## 查询与过滤
 
 - Query查询上下文  
 在Query查询上下文中，查询会回答这个问题--<strong style="color:red">"这个文档匹不匹配查询条件，它的相关性高么？"</strong>  

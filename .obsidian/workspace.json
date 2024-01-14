@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/服务单.md",
+                "file": "ELK/2、Elasticsearch(入门篇)——Query DSL与查询行为.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/服务单.md",
+                "file": "ELK/2、Elasticsearch(入门篇)——Query DSL与查询行为.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/服务单.md",
+                "file": "ELK/2、Elasticsearch(入门篇)——Query DSL与查询行为.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/服务单.md"
+                "file": "ELK/2、Elasticsearch(入门篇)——Query DSL与查询行为.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "4cab9150c61fb8b4",
   "lastOpenFiles": [
+    "ELK/01.elasticsearch_setupAndRun.md",
+    "Work/服务单.md",
     "Work/育儿中心V2.5.md",
     "HTML/grammar/03.grammar_strategy.md",
-    "Work/服务单.md",
     "Attachment/Pasted image 20240109232217.png",
     "随记/2024-01-14(周日).md",
     "未命名.canvas",
@@ -194,7 +195,6 @@
     "微信公众号/The Secret Power of ‘Read It Later’ Apps.md",
     "微信公众号/Sync all your reading to Obsidian - Omnivore Docs.md",
     "微信公众号/SQL中的 CASE 表达式妙用，涨姿势了！.md",
-    "微信公众号/Organize your Omnivore library with labels.md",
     "微信公众号",
     "Excalidraw",
     "Attachment/github-recovery-codes.txt",
