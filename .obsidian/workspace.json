@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#账号",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +164,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4cab9150c61fb8b4",
+  "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
     "Work/育儿中心V2.5.md",
     "Work/服务单.md",
