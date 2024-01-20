@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "4cab9150c61fb8b4",
   "lastOpenFiles": [
     "Work/育儿中心V2.5.md",
     "未命名 3.canvas",
