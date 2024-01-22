@@ -9,6 +9,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
   "propertiesInDocument": "hidden",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "livePreview": false
 }
