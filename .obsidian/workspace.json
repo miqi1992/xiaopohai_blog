@@ -21,8 +21,57 @@
                 }
               }
             }
+          },
+          {
+            "id": "deecead2fc2b09f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/00.README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "53d659ff32af2958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VUE/vuepress 博客主题(vuepress-theme-reco).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7e1ba01a2f998b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tomcat/00.Tomcat intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8df8c984ada112b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tomcat/01.Tomcat install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Tomcat/01.Tomcat install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Tomcat/01.Tomcat install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "Tomcat/01.Tomcat install.md"
               }
             }
           },
@@ -166,8 +215,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9c443bdcae656fcc",
+  "active": "8df8c984ada112b0",
   "lastOpenFiles": [
+    "Tomcat/00.Tomcat intro.md",
+    "VUE/vuepress 博客主题(vuepress-theme-reco).md",
+    "VUE/00.README.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -196,8 +248,6 @@
     "ELK/00、README.md",
     "Template/日记模版.md",
     "随记/2024-01-08(周一).md",
-    "随记/delete.md",
-    "JavaEE/05.servlet_HttpServletResponse02.md",
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
