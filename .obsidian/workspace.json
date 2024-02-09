@@ -72,6 +72,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "3d61bad9dbd0dff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc29bf2e1e8752d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tomcat/00.Tomcat intro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +233,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7e1ba01a2f998b2b",
+  "active": "cc29bf2e1e8752d6",
   "lastOpenFiles": [
     "Tomcat/01.Tomcat install.md",
     "Tomcat/00.Tomcat intro.md",
