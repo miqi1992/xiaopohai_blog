@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Person/图床配置.md",
+                "file": "Obsidian使用/插件使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Person/图床配置.md",
+                "file": "Obsidian使用/插件使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Person/图床配置.md",
+                "file": "Obsidian使用/插件使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Person/图床配置.md"
+                "file": "Obsidian使用/插件使用.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "372d5d386be0af37",
   "lastOpenFiles": [
-    "Person/github-recovery-codes.md",
     "Person/图床配置.md",
+    "Obsidian使用/插件使用.md",
+    "Person/github-recovery-codes.md",
     "Tomcat/00.Tomcat intro.md",
     "Personal",
     "未命名.canvas",
@@ -196,7 +197,6 @@
     "随记/2024-01-10(周三).md",
     "随记/2024-01-11(周四).md",
     "随记/Readme.md",
-    "Work/未命名 1.md",
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
