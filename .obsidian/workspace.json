@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "Spring/02.spring_bean_create_method.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 405.5
   },
   "right": {
     "id": "439cf7be77d2d871",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "Spring/02.spring_bean_create_method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "Spring/02.spring_bean_create_method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian使用/插件使用.md"
+                "file": "Spring/02.spring_bean_create_method.md"
               }
             }
           },
@@ -163,10 +163,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "372d5d386be0af37",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
-    "Person/图床配置.md",
+    "Spring/spring_tuling",
     "Obsidian使用/插件使用.md",
+    "Person/图床配置.md",
     "Person/github-recovery-codes.md",
     "Tomcat/00.Tomcat intro.md",
     "Personal",
@@ -196,7 +197,6 @@
     "随记/2024-01-07(周日).md",
     "随记/2024-01-10(周三).md",
     "随记/2024-01-11(周四).md",
-    "随记/Readme.md",
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
