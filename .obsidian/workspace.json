@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomcat/00.Tomcat intro.md",
-                "mode": "preview",
+                "file": "Person/图床配置.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomcat/00.Tomcat intro.md",
+                "file": "Person/图床配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tomcat/00.Tomcat intro.md",
+                "file": "Person/图床配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tomcat/00.Tomcat intro.md"
+                "file": "Person/图床配置.md"
               }
             }
           },
@@ -165,10 +165,13 @@
   },
   "active": "372d5d386be0af37",
   "lastOpenFiles": [
+    "Person/github-recovery-codes.md",
+    "Person/图床配置.md",
+    "Tomcat/00.Tomcat intro.md",
+    "Personal",
     "未命名.canvas",
     "VUE/00.README.md",
     "VUE/vuepress 博客主题(vuepress-theme-reco).md",
-    "Tomcat/00.Tomcat intro.md",
     "Tomcat/01.Tomcat install.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
@@ -194,7 +197,6 @@
     "随记/2024-01-11(周四).md",
     "随记/Readme.md",
     "Work/未命名 1.md",
-    "ELK/00、README.md",
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
@@ -205,7 +207,6 @@
     "Attachment",
     "Jetty/未命名.canvas",
     "test",
-    "Template",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
   ]
