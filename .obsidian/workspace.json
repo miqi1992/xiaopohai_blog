@@ -15,7 +15,7 @@
               "state": {
                 "file": "随记/2024-02-10(周六).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -164,7 +164,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3afe20a7133c39dd",
+  "active": "372d5d386be0af37",
   "lastOpenFiles": [
     "Spring/spring_tuling/01_Srping底层核心原理解析.md",
     "随记/2024-02-10(周六).md",
