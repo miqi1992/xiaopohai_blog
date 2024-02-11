@@ -36,11 +36,14 @@ userService.test();
 光看这三行代码，其实**并不能体现出来Spring的强大之处**，也不能理解为什么需要ClassPathXmlApplicationContext和getBean()方法，随着课程的深入将会改变你此时的观念，而对于上面的这些疑问，也会随着课程深入逐步得到解决。对于这三行代码，你现在可以认为：如果你要用Spring，你就得这么写。就像你要用Mybatis，你就得写各种Mapper接口。 ​
 
 但是用ClassPathXmlApplicationContext其实已经过时了，在新版的Spring MVC和Spring Boot的底层主要用的都是**AnnotationConfigApplicationContext**，比如：
-
+``` java
 AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);  
 //ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");  
 UserService userService = (UserService) context.getBean("userService");  
 userService.test();
+
+```
+
 
 可以看到AnnotationConfigApplicationContext的用法和ClassPathXmlApplicationContext是非常类似的，只不过需要传入的是一个class，而不是一个xml文件。
 
@@ -52,7 +55,7 @@ spring.xml中的内容为：
 <bean id="userService" class="com.zhouyu.service.UserService"/>
 
 AppConfig中的内容为：
-
+``` java
 @ComponentScan("com.zhouyu")  
 public class AppConfig {  
 ​  
@@ -62,6 +65,8 @@ public class AppConfig {
     }  
 ​  
 }
+```
+
 
 所以spring.xml和AppConfig.class本质上是一样的。 ​
 
