@@ -4,7 +4,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "showInlineTitle": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
