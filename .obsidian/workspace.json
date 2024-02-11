@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#生命周期/生命周期",
+                "query": "tag:#spring",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "372d5d386be0af37",
+  "active": "3afe20a7133c39dd",
   "lastOpenFiles": [
     "Spring/spring_tuling/01_Srping底层核心原理解析.md",
     "随记/2024-02-10(周六).md",
