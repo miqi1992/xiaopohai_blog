@@ -85,9 +85,12 @@ public class AppConfig {
 
 在Java语言中，肯定是根据某个类来创建一个对象的。我们在看一下实例代码：
 
+``` java
 AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);  
 UserService userService = (UserService) context.getBean("userService");  
 userService.test();
+```
+
 
 当我们调用context.getBean("userService")时，就会去创建一个对象，但是getBean方法内部怎么知道"userService"对应的是UserService类呢？ ​
 
