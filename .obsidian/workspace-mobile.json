@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Work/育儿中心V2.8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Work/育儿中心V2.8.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Work/育儿中心V2.8.md"
+          }
         }
       },
       {
@@ -145,7 +148,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cf3d58f55fc4db7",
+  "active": "500abdd45b93c03b",
   "lastOpenFiles": [
     "Work/育儿中心V2.8.md",
     "Java_NIO/README.md",
