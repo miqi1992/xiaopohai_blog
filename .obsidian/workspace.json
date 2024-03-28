@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/育儿中心V2.8.md",
+                "file": "Person/一台电脑两个gitee账号推动到一个仓库.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/育儿中心V2.8.md",
+                "file": "Person/一台电脑两个gitee账号推动到一个仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/育儿中心V2.8.md",
+                "file": "Person/一台电脑两个gitee账号推动到一个仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/育儿中心V2.8.md"
+                "file": "Person/一台电脑两个gitee账号推动到一个仓库.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "24d086b41cafb71c",
   "lastOpenFiles": [
-    "Spring/spring_tuling/01_Srping底层核心原理解析.md",
     "Work/育儿中心V2.8.md",
+    "Person/一台电脑两个gitee账号推动到一个仓库.md",
+    "Spring/spring_tuling/01_Srping底层核心原理解析.md",
     "Work/微商城.md",
     "Work/服务单.md",
     "随记/2024-02-11(周日).md",
@@ -218,7 +219,6 @@
     "Work/育儿中心V2.5.md",
     "未命名 3.canvas",
     "ELK/2、Elasticsearch(入门篇)——Query DSL与查询行为.md",
-    "ELK/01.elasticsearch_setupAndRun.md",
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
