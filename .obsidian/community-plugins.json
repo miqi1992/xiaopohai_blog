@@ -2,5 +2,6 @@
   "obsidian-git",
   "file-explorer-note-count",
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-local-rest-api"
 ]
