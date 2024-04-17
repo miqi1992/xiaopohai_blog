@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "028d177f70199a56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f8263a0398cc6bd0",
+  "active": "028d177f70199a56",
   "lastOpenFiles": [
     "随记/Readme.md",
     "XPath的所有知识点.md",
