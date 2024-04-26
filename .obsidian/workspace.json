@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "twitter bookmarks.md",
-                "mode": "preview",
+                "file": "Work/浙江邮储活动/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "twitter bookmarks.md",
+                "file": "Work/浙江邮储活动/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "twitter bookmarks.md",
+                "file": "Work/浙江邮储活动/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "twitter bookmarks.md"
+                "file": "Work/浙江邮储活动/未命名.md"
               }
             }
           },
@@ -173,9 +173,11 @@
   },
   "active": "f8263a0398cc6bd0",
   "lastOpenFiles": [
+    "twitter bookmarks.md",
+    "Work/浙江邮储活动/未命名.md",
+    "Work/浙江邮储活动",
     "XPath的所有知识点.md",
     "Work/浦上微商城.md",
-    "twitter bookmarks.md",
     "随记/Readme.md",
     "随记/2024-02-10(周六).md",
     "随记/2024-02-11(周日).md",
@@ -202,7 +204,6 @@
     "Personal",
     "未命名.canvas",
     "VUE/00.README.md",
-    "VUE/vuepress 博客主题(vuepress-theme-reco).md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
@@ -213,7 +214,6 @@
     "Person/github-recovery-codes.txt",
     "Person",
     "Work",
-    "Attachment",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
