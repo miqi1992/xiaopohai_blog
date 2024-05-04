@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c423f65e4e1c3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Person/centos安装mysql并可以外网访问.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md",
+                "file": "Person/centos安装mysql并可以外网访问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md",
+                "file": "Person/centos安装mysql并可以外网访问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md"
+                "file": "Person/centos安装mysql并可以外网访问.md"
               }
             }
           },
@@ -171,10 +184,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f8263a0398cc6bd0",
+  "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
-    "twitter bookmarks.md",
+    "Work/浙江邮储活动/未命名 1.md",
+    "Person/centos安装mysql并可以外网访问.md",
     "Work/浙江邮储活动/未命名.md",
+    "twitter bookmarks.md",
     "Work/浙江邮储活动",
     "XPath的所有知识点.md",
     "Work/浦上微商城.md",
@@ -200,10 +215,8 @@
     "Obsidian使用/插件使用.md",
     "Person/图床配置.md",
     "Person/github-recovery-codes.md",
-    "Tomcat/00.Tomcat intro.md",
     "Personal",
     "未命名.canvas",
-    "VUE/00.README.md",
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
