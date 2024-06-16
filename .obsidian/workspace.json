@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Person/centos安装mysql并可以外网访问.md",
+                "file": "ELK/es docker安装.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Person/centos安装mysql并可以外网访问.md",
+                "file": "ELK/es docker安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Person/centos安装mysql并可以外网访问.md",
+                "file": "ELK/es docker安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Person/centos安装mysql并可以外网访问.md"
+                "file": "ELK/es docker安装.md"
               }
             }
           },
@@ -186,8 +186,10 @@
   },
   "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
-    "Work/浙江邮储活动/未命名 1.md",
     "Person/centos安装mysql并可以外网访问.md",
+    "ELK/es docker安装.md",
+    "未命名",
+    "Work/浙江邮储活动/未命名 1.md",
     "Work/浙江邮储活动/未命名.md",
     "twitter bookmarks.md",
     "Work/浙江邮储活动",
@@ -214,7 +216,6 @@
     "Spring/spring_tuling",
     "Obsidian使用/插件使用.md",
     "Person/图床配置.md",
-    "Person/github-recovery-codes.md",
     "Personal",
     "未命名.canvas",
     "未命名 2.canvas",
@@ -226,7 +227,6 @@
     "Attachment/github-recovery-codes.txt",
     "Person/github-recovery-codes.txt",
     "Person",
-    "Work",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
