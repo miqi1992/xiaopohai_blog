@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/图灵es学习.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/图灵es学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/图灵es学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELK/es docker安装.md"
+                "file": "ELK/图灵es学习.md"
               }
             }
           },
@@ -188,8 +187,9 @@
   },
   "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
-    "Work/浙江邮储活动/未命名.md",
+    "ELK/图灵es学习.md",
     "ELK/es docker安装.md",
+    "Work/浙江邮储活动/未命名.md",
     "Person/centos安装mysql并可以外网访问.md",
     "未命名",
     "Work/浙江邮储活动/未命名 1.md",
@@ -217,7 +217,6 @@
     "Spring/02.spring_bean_create_method.md",
     "Spring/spring_tuling",
     "Obsidian使用/插件使用.md",
-    "Person/图床配置.md",
     "Personal",
     "未命名.canvas",
     "未命名 2.canvas",
