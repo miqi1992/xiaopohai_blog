@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md",
+                "file": "ELK/es docker安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md",
+                "file": "ELK/es docker安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md"
+                "file": "ELK/es docker安装.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +186,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "182d31a6a13ba636",
+  "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
+    "Work/浙江邮储活动/未命名.md",
     "ELK/es docker安装.md",
     "Person/centos安装mysql并可以外网访问.md",
     "未命名",
     "Work/浙江邮储活动/未命名 1.md",
-    "Work/浙江邮储活动/未命名.md",
     "twitter bookmarks.md",
     "Work/浙江邮储活动",
     "XPath的所有知识点.md",

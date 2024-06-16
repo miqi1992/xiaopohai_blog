@@ -25,3 +25,12 @@ docker run -d \
 -p 5601:5601 \
 kibana:7.17.3
 ```
+
+
+
+### 常见问题
+1. 权限问题
+sudo chown -R 1000:1000 /home/recharge/es_data/elasticsearch/config
+sudo chown -R 1000:1000 /home/recharge/es_data/elasticsearch/data
+sudo chown -R 1000:1000 /home/recharge/es_data/elasticsearch/logs
+
