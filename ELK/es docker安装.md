@@ -1,5 +1,5 @@
-``` 
-```
+#es安装 #docker
+```java
 docker run -d \
   --restart=always \
   --name elasticsearch \
@@ -13,6 +13,10 @@ docker run -d \
   -v /home/recharge/es_data/elasticsearch/plugins:/usr/local/elasticsearch7.12.1/plugins \
   -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" \
   elasticsearch:7.17.3
+```
 
 
 
+``` java
+
+```
