@@ -18,5 +18,10 @@ docker run -d \
 
 
 ``` java
-
+docker run -d \
+--name kibana \
+-e ELASTICSEARCH_HOSTS=http://elasticsearch:9200 \
+--network=es-net \
+-p 5601:5601 \
+kibana:7.17.3
 ```
