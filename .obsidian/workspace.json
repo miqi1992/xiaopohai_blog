@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELK/个人书单.md",
+                "file": "ELK/es docker安装.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELK/个人书单.md",
+                "file": "ELK/es docker安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELK/个人书单.md",
+                "file": "ELK/es docker安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELK/个人书单.md"
+                "file": "ELK/es docker安装.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
     "ELK/图灵es学习.md",
+    "ELK/文档API.md",
+    "ELK/个人书单.md",
     "ELK/es docker安装.md",
     "Work/浙江邮储活动/未命名.md",
     "Person/centos安装mysql并可以外网访问.md",
@@ -214,9 +216,7 @@
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
     "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
-    "Spring/02.spring_bean_create_method.md",
     "Spring/spring_tuling",
-    "Obsidian使用/插件使用.md",
     "Personal",
     "未命名.canvas",
     "未命名 2.canvas",
