@@ -8,6 +8,7 @@ docker run -d \
   -p 9300:9300 \
   --privileged \
   -e "discovery.type=single-node" \
+   -v /home/recharge/es_data/elasticsearch/config:/usr/share/elasticsearch/config \
   -v /home/recharge/es_data/elasticsearch/data:/usr/share/elasticsearch/data \
   -v /home/recharge/es_data/elasticsearch/logs:/usr/share/elasticsearch/logs \
   -v /home/recharge/es_data/elasticsearch/plugins:/usr/local/elasticsearch7.12.1/plugins \
