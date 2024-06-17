@@ -53,6 +53,8 @@ PASSWORD elastic = K2zUMXUQyPSkewQzXJRq
 ```
 
 
+echo 'elasticsearch.password: "K2zUMXUQyPSkewQzXJRq"' >> kibana.yml
+
 ### 常见问题
 1. 权限问题
 sudo chown -R 1000:1000 /home/recharge/es_data/elasticsearch/config
