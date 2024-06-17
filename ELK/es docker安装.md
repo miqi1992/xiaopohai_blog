@@ -22,6 +22,7 @@ docker run -d \
 docker run -d \
 --name kibana \
 -e ELASTICSEARCH_HOSTS=http://elasticsearch:9200 \
+-e ELASTIC_PASSWORD=K2zUMXUQyPSkewQzXJRq \
 --network=es-net \
 -p 5601:5601 \
 kibana:7.17.3
