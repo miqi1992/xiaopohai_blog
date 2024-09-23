@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELK/es语法学习.md",
+                "file": "随记/2024-09-23(周一).md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELK/es语法学习.md",
+                "file": "随记/2024-09-23(周一).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELK/es语法学习.md",
+                "file": "随记/2024-09-23(周一).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELK/es语法学习.md"
+                "file": "随记/2024-09-23(周一).md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
-    "ELK/es docker安装.md",
     "ELK/es语法学习.md",
+    "随记/2024-09-23(周一).md",
+    "ELK/es docker安装.md",
     "ELK/图灵es学习.md",
     "ELK/文档API.md",
     "ELK/个人书单.md",
@@ -225,7 +226,6 @@
     "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
     "Attachment/Pasted image 20240109232217.png",
     "Annotation/Highlights template配置_百度搜索.md",
-    "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
     "Spring/spring_tuling",
     "Personal",
     "未命名.canvas",
