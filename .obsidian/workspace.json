@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7944ec2f0e58806b",
+        "id": "99fe9962685ba24a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8263a0398cc6bd0",
+            "id": "f70097d2908efc6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/浙江邮储活动/未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c423f65e4e1c3a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "随记/2024-09-23(周一).md",
+                "file": "Obsidian使用/插件使用.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "f9a103b15ec88e74",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "1e500bf03d8381fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/2024-09-23(周一).md",
+                "file": "Obsidian使用/插件使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/2024-09-23(周一).md",
+                "file": "Obsidian使用/插件使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随记/2024-09-23(周一).md"
+                "file": "Obsidian使用/插件使用.md"
               }
             }
           },
@@ -202,18 +169,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": true,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "f9a103b15ec88e74",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
-    "ELK/es语法学习.md",
+    "Work/浙江邮储活动/未命名.md",
     "随记/2024-09-23(周一).md",
+    "ELK/es语法学习.md",
     "ELK/es docker安装.md",
     "ELK/图灵es学习.md",
     "ELK/文档API.md",
     "ELK/个人书单.md",
-    "Work/浙江邮储活动/未命名.md",
     "Person/centos安装mysql并可以外网访问.md",
     "未命名",
     "Work/浙江邮储活动/未命名 1.md",
