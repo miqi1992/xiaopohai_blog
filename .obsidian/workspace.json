@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "f9a103b15ec88e74",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "1e500bf03d8381fc",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6c423f65e4e1c3a3",
+  "active": "f9a103b15ec88e74",
   "lastOpenFiles": [
     "ELK/es语法学习.md",
     "随记/2024-09-23(周一).md",
