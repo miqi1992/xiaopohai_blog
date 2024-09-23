@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/es语法学习.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "1e500bf03d8381fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/es语法学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELK/es docker安装.md",
+                "file": "ELK/es语法学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELK/es docker安装.md"
+                "file": "ELK/es语法学习.md"
               }
             }
           },
@@ -187,10 +197,11 @@
   },
   "active": "6c423f65e4e1c3a3",
   "lastOpenFiles": [
+    "ELK/es docker安装.md",
+    "ELK/es语法学习.md",
     "ELK/图灵es学习.md",
     "ELK/文档API.md",
     "ELK/个人书单.md",
-    "ELK/es docker安装.md",
     "Work/浙江邮储活动/未命名.md",
     "Person/centos安装mysql并可以外网访问.md",
     "未命名",
@@ -215,7 +226,6 @@
     "Attachment/Pasted image 20240109232217.png",
     "Annotation/Highlights template配置_百度搜索.md",
     "Annotation/VSCode中使用Git提交代码_vscode提交git-CSDN博客.md",
-    "Annotation/X 上的 鲜莜：“@hank_zhao 请问这个图是用什么工具画的呢？风格好喜欢”  X.md",
     "Spring/spring_tuling",
     "Personal",
     "未命名.canvas",
