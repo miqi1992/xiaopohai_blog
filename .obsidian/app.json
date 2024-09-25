@@ -1,10 +1,10 @@
 {
   "defaultViewMode": "source",
   "strictLineBreaks": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "showInlineTitle": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
@@ -14,5 +14,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "rightToLeft": true
+  "rightToLeft": false,
+  "tabSize": 4
 }
