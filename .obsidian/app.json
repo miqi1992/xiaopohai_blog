@@ -7,7 +7,7 @@
   "promptDelete": true,
   "showInlineTitle": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachment",
+  "attachmentFolderPath": "附件",
   "propertiesInDocument": "source",
   "readableLineLength": false,
   "livePreview": true,
@@ -15,5 +15,6 @@
   "foldIndent": true,
   "showLineNumber": true,
   "rightToLeft": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "showRibbon": false
 }

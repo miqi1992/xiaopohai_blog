@@ -1,8 +1,9 @@
 {
-  "accentColor": "#cc14c6",
+  "accentColor": "",
   "translucency": false,
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "showViewHeader": true
 }

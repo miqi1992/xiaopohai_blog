@@ -169,12 +169,12 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": true,
-      "workspaces:管理工作区布局": false,
-      "copilot:Copilot Chat": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "4c87bf7c5483d7a6",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "附件",
     "Java_NIO/7.Java_NIO_FileChannel.md",
     "Java_NIO/9.Java_NIO_ServerSocketChannel.md",
     "Java_NIO/5.Java_NIO_transFromTo.md.md",
@@ -200,8 +200,6 @@
     "ELK/es docker安装.md",
     "ELK/图灵es学习.md",
     "ELK/文档API.md",
-    "ELK/个人书单.md",
-    "未命名",
     "Work/浙江邮储活动",
     "Attachment/Pasted image 20240109232217.png",
     "Spring/spring_tuling",
