@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "VUE/vuepress 博客主题(vuepress-theme-reco).md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "VUE/vuepress 博客主题(vuepress-theme-reco).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian使用/插件使用.md",
+                "file": "VUE/vuepress 博客主题(vuepress-theme-reco).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian使用/插件使用.md"
+                "file": "VUE/vuepress 博客主题(vuepress-theme-reco).md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "f70097d2908efc6f",
   "lastOpenFiles": [
+    "VUE/00.README.md",
+    "Obsidian使用/插件使用.md",
     "Work/浙江邮储活动/未命名.md",
     "随记/2024-09-23(周一).md",
     "ELK/es语法学习.md",
@@ -201,9 +203,7 @@
     "随记/2024-01-11(周四).md",
     "Excalidraw/Drawing 2024-01-09 23.46.40.excalidraw.md",
     "Excalidraw/Drawing 2024-01-13 09.23.28.excalidraw.md",
-    "微信公众号/背八股文和 DEBUG 源码，差别在哪？.md",
     "Attachment/Pasted image 20240109232217.png",
-    "Annotation/Highlights template配置_百度搜索.md",
     "Spring/spring_tuling",
     "Personal",
     "未命名.canvas",
