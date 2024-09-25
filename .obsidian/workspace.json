@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa30db44a520ac3",
+        "id": "43b5edb23f3fc10d",
         "type": "tabs",
         "children": [
           {
-            "id": "a10fdad2f8c28fbb",
+            "id": "4c87bf7c5483d7a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java_NIO/6.Java_NIO_Selector.md"
+              }
             }
           },
           {
@@ -164,16 +173,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a10fdad2f8c28fbb",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
     "Java_NIO/5.Java_NIO_transFromTo.md.md",
+    "Java_NIO/8.Java_NIO_SocketChannel.md",
     "Java_NIO/12.Java_NIO_NioAndIO.md",
     "Java_NIO/JavaNIO视频学习教程.md",
     "Java_NIO/11.Java_NIO_Pipe.md",
     "Java_NIO/10.Java_NIO_DatagramChannel.md",
     "Java_NIO/4.Java_NIO_ScatterGather.md",
     "Java_NIO/7.Java_NIO_FileChannel.md",
-    "Java_NIO/8.Java_NIO_SocketChannel.md",
     "Java_NIO/6.Java_NIO_Selector.md",
     "Java_NIO/1. Java NIO_intro.md",
     "Person/github-recovery-codes.md",
