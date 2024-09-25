@@ -8,7 +8,11 @@
   "showInlineTitle": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachment",
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "readableLineLength": false,
-  "livePreview": true
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "rightToLeft": true
 }
