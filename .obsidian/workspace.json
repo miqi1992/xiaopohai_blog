@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/4.Java_NIO_ScatterGather.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/4.Java_NIO_ScatterGather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/4.Java_NIO_ScatterGather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md"
+                "file": "Java_NIO/4.Java_NIO_ScatterGather.md"
               }
             }
           },
@@ -172,9 +172,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f70097d2908efc6f",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "Java_NIO/10.Java_NIO_DatagramChannel.md",
     "Java_NIO/7.Java_NIO_FileChannel.md",
+    "Java_NIO/JavaNIO视频学习教程.md",
+    "Java_NIO/11.Java_NIO_Pipe.md",
     "Java_NIO/8.Java_NIO_SocketChannel.md",
     "Java_NIO/6.Java_NIO_Selector.md",
     "Java_NIO/1. Java NIO_intro.md",
@@ -199,9 +202,6 @@
     "Work/浙江邮储活动",
     "XPath的所有知识点.md",
     "Work/浦上微商城.md",
-    "随记/Readme.md",
-    "随记/2024-02-10(周六).md",
-    "随记/2024-02-11(周日).md",
     "Attachment/Pasted image 20240109232217.png",
     "Spring/spring_tuling",
     "Personal",
