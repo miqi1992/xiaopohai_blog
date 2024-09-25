@@ -11,8 +11,13 @@
             "id": "95b89d211a168dbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Person/markdown学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Person/markdown学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Person/markdown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Person/markdown学习.md"
+              }
             }
           },
           {
@@ -177,6 +186,8 @@
   },
   "active": "95b89d211a168dbf",
   "lastOpenFiles": [
+    "Person/markdown学习.md",
+    "未命名",
     "未命名.canvas",
     "Java_NIO/3. Java NIO_Buffer.md",
     "Java_NIO/1. Java NIO_intro.md",
@@ -216,7 +227,6 @@
     "Excalidraw",
     "Attachment/github-recovery-codes.txt",
     "Person/github-recovery-codes.txt",
-    "Person",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
