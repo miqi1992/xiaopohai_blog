@@ -144,6 +144,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "48e9cfc3988fb5c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }

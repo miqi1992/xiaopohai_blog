@@ -24,7 +24,7 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "canvas": true,
-  "properties": false,
+  "canvas": false,
+  "properties": true,
   "bookmarks": true
 }
