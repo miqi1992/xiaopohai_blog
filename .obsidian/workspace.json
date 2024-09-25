@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43b5edb23f3fc10d",
+        "id": "777f06b12430b949",
         "type": "tabs",
         "children": [
           {
-            "id": "4c87bf7c5483d7a6",
+            "id": "a666679cf5c1e9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md",
+                "file": "Java_NIO/6.Java_NIO_Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java_NIO/11.Java_NIO_Pipe.md"
+                "file": "Java_NIO/6.Java_NIO_Selector.md"
               }
             }
           },
@@ -163,17 +163,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": true,
+      "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": true,
+      "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false
     }
   },
   "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "Java_NIO/11.Java_NIO_Pipe.md",
     "附件",
     "Java_NIO/7.Java_NIO_FileChannel.md",
     "Java_NIO/9.Java_NIO_ServerSocketChannel.md",
@@ -182,7 +183,6 @@
     "Java_NIO/8.Java_NIO_SocketChannel.md",
     "Java_NIO/12.Java_NIO_NioAndIO.md",
     "Java_NIO/JavaNIO视频学习教程.md",
-    "Java_NIO/11.Java_NIO_Pipe.md",
     "Java_NIO/10.Java_NIO_DatagramChannel.md",
     "Java_NIO/4.Java_NIO_ScatterGather.md",
     "Java_NIO/1. Java NIO_intro.md",
