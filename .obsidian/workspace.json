@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Person/github-recovery-codes.md",
+                "file": "Java_NIO/1. Java NIO_intro.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Person/github-recovery-codes.md",
+                "file": "Java_NIO/1. Java NIO_intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Person/github-recovery-codes.md",
+                "file": "Java_NIO/1. Java NIO_intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Person/github-recovery-codes.md"
+                "file": "Java_NIO/1. Java NIO_intro.md"
               }
             }
           },
@@ -153,13 +153,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +173,7 @@
   },
   "active": "f70097d2908efc6f",
   "lastOpenFiles": [
+    "Person/github-recovery-codes.md",
     "Person/centos安装mysql并可以外网访问.md",
     "Person/一台电脑两个gitee账号推动到一个仓库.md",
     "Person/微信双开.md",
@@ -202,7 +201,6 @@
     "Work/育儿中心V2.8.md",
     "Work/微商城.md",
     "Work/服务单.md",
-    "随记/2024-01-11(周四).md",
     "Attachment/Pasted image 20240109232217.png",
     "Spring/spring_tuling",
     "Personal",
