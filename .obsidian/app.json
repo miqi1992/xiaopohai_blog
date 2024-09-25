@@ -10,5 +10,5 @@
   "attachmentFolderPath": "Attachment",
   "propertiesInDocument": "hidden",
   "readableLineLength": false,
-  "livePreview": false
+  "livePreview": true
 }
