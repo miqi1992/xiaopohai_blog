@@ -175,7 +175,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
