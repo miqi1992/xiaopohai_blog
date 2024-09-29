@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/浙江邮储活动/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/浙江邮储活动/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/浙江邮储活动/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/浙江邮储活动/泗阳一卡通刷数据.md"
+                "file": "Work/泗阳一卡通.md"
               }
             }
           },
@@ -183,9 +183,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "95b89d211a168dbf",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
+    "Work/浦上微商城.md",
     "Work/泗阳一卡通.md",
+    "Work/安徽建行活动.md",
     "Work/浙江邮储活动/泗阳一卡通刷数据.md",
     "Person/markdown学习.md",
     "未命名",
@@ -212,8 +214,6 @@
     "VUE/vuepress 博客主题(vuepress-theme-reco).md",
     "VUE/00.README.md",
     "Obsidian使用/插件使用.md",
-    "Work/浙江邮储活动/未命名.md",
-    "随记/2024-09-23(周一).md",
     "Work/浙江邮储活动",
     "Attachment/Pasted image 20240109232217.png",
     "Spring/spring_tuling",
