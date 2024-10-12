@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通/常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/泗阳一卡通刷数据.md",
+                "file": "Work/泗阳一卡通/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/泗阳一卡通刷数据.md"
+                "file": "Work/泗阳一卡通/常用命令.md"
               }
             }
           },
@@ -185,9 +185,11 @@
   },
   "active": "95b89d211a168dbf",
   "lastOpenFiles": [
-    "Work/泗阳一卡通.md",
-    "Work/泗阳一卡通刷数据.md",
-    "Work/泗阳已开通线上数据准备.md",
+    "Work/泗阳一卡通/泗阳一卡通.md",
+    "Work/泗阳一卡通/常用命令.md",
+    "Work/泗阳一卡通/泗阳一卡通刷数据.md",
+    "Work/泗阳一卡通",
+    "Work/泗阳一卡通/泗阳已开通线上数据准备.md",
     "Work/育儿中心V2.6.md",
     "Work/育儿中心V2.5.md",
     "Work/微商城订单.md",
@@ -213,7 +215,6 @@
     "Java_NIO/4.Java_NIO_ScatterGather.md",
     "Person/github-recovery-codes.md",
     "Person/centos安装mysql并可以外网访问.md",
-    "Person/一台电脑两个gitee账号推动到一个仓库.md",
     "Work/浙江邮储活动",
     "Attachment/Pasted image 20240109232217.png",
     "Spring/spring_tuling",
@@ -225,7 +226,6 @@
     "微信公众号",
     "Excalidraw",
     "Attachment/github-recovery-codes.txt",
-    "Person/github-recovery-codes.txt",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
