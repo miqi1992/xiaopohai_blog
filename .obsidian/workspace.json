@@ -13,14 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随记/Readme.md",
+                "file": "linux/vim用法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "vim用法"
+            }
+          },
+          {
+            "id": "bffd8a98c0966faf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -71,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -94,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随记/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -111,10 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随记/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -125,7 +150,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,9 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "随记/Readme.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -143,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -151,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -163,7 +194,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ]
@@ -183,8 +216,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7797ebaf78259e84",
+  "active": "bffd8a98c0966faf",
   "lastOpenFiles": [
+    "Work/浦上ES.md",
+    "linux/vim用法.md",
+    "linux",
+    "随记/Readme.md",
     "随记/2024-09-25(周三).md",
     "随记/2024-09-23(周一).md",
     "随记/2024-02-11(周日).md",
@@ -208,9 +245,6 @@
     "Work/泗阳一卡通/泗阳一卡通刷数据.md",
     "Work/泗阳一卡通/泗阳一卡通.md",
     "Work/泗阳一卡通/常用命令.md",
-    "Work/活动/线上.md",
-    "Work/活动/厦门权益中心.md",
-    "Work/活动/709(2.11.0).md",
     "Work/泗阳一卡通",
     "未命名",
     "未命名.canvas",
@@ -225,7 +259,6 @@
     "Obsidian使用",
     "微信公众号",
     "Excalidraw",
-    "Attachment/github-recovery-codes.txt",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
