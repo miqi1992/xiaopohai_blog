@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/vim用法.md",
+                "file": "springboot/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vim用法"
-            }
-          },
-          {
-            "id": "bffd8a98c0966faf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "springboot/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -135,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "springboot/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -160,9 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "springboot/README.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -216,10 +207,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bffd8a98c0966faf",
+  "active": "dc82e3eeef189c8e",
   "lastOpenFiles": [
-    "Work/浦上ES.md",
+    "Spring Security/未命名.md",
     "linux/vim用法.md",
+    "Spring Security",
+    "Work/浦上ES.md",
     "linux",
     "随记/Readme.md",
     "随记/2024-09-25(周三).md",
@@ -244,7 +237,6 @@
     "Work/泗阳一卡通/泗阳已开通线上数据准备.md",
     "Work/泗阳一卡通/泗阳一卡通刷数据.md",
     "Work/泗阳一卡通/泗阳一卡通.md",
-    "Work/泗阳一卡通/常用命令.md",
     "Work/泗阳一卡通",
     "未命名",
     "未命名.canvas",
@@ -258,7 +250,6 @@
     "未命名 3.canvas",
     "Obsidian使用",
     "微信公众号",
-    "Excalidraw",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
