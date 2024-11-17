@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/spring_tuling/01_Srping底层核心原理解析.md",
+                "file": "Spring/徐庶_spring6/1、Spring框架介绍和快速入门.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Srping底层核心原理解析"
+              "title": "1、Spring框架介绍和快速入门"
             }
           }
         ]
@@ -207,9 +207,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7797ebaf78259e84",
   "lastOpenFiles": [
-    "Spring/未命名",
+    "Spring/spring_tuling/01_Srping底层核心原理解析.md",
+    "Spring/徐庶_spring6/1、Spring框架介绍和快速入门.md",
+    "Spring/徐庶_spring6",
     "Spring/00.README.md",
     "Spring/09.spring_intro.md",
     "Spring/07.spring_junit.md",
@@ -236,7 +238,6 @@
     "随记/2024-01-13(周六).md",
     "随记/2024-01-09(周二).md",
     "随记/2024-01-07(周日).md",
-    "ELK/es docker安装.md",
     "Work/泗阳一卡通",
     "未命名",
     "未命名.canvas",
@@ -249,7 +250,6 @@
     "未命名 1.canvas",
     "未命名 3.canvas",
     "Obsidian使用",
-    "微信公众号",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
