@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "泗阳一卡通二期"
             }
+          },
+          {
+            "id": "edbc754bea059a4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +220,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7797ebaf78259e84",
+  "active": "edbc754bea059a4c",
   "lastOpenFiles": [
     "Spring/徐庶_spring6/1、Spring框架介绍和快速入门.md",
     "Work/泗阳一卡通/泗阳一卡通二期.md",
