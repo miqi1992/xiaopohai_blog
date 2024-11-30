@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小红书 PK 组件的分析与实现.md",
-                "mode": "source",
+                "file": "Follow收藏/一两个提问三分钟，使用 cursor 开.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小红书 PK 组件的分析与实现"
+              "title": "一两个提问三分钟，使用 cursor 开"
             }
           }
         ]
@@ -207,11 +207,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7797ebaf78259e84",
   "lastOpenFiles": [
+    "小红书 PK 组件的分析与实现.md",
+    "Follow收藏/一两个提问三分钟，使用 cursor 开.md",
+    "Vite为什么这么快？.md",
     "Follow收藏",
     "Work/泗阳一卡通/泗阳一卡通二期.md",
-    "小红书 PK 组件的分析与实现.md",
     "Spring/徐庶_spring6/1、Spring框架介绍和快速入门.md",
     "Spring/spring_tuling/01_Srping底层核心原理解析.md",
     "Spring/徐庶_spring6",
@@ -237,7 +239,6 @@
     "随记/2024-09-25(周三).md",
     "随记/2024-09-23(周一).md",
     "随记/2024-02-11(周日).md",
-    "随记/2024-01-14(周日).md",
     "Work/泗阳一卡通",
     "未命名",
     "未命名.canvas",
@@ -249,7 +250,6 @@
     "未命名 2.canvas",
     "未命名 1.canvas",
     "未命名 3.canvas",
-    "Obsidian使用",
     "Jetty/未命名.canvas",
     "Pasted image 20240106154834.png",
     "Pasted image 20240106154821.png"
