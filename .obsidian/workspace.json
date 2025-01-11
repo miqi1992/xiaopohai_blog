@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/泗阳一卡通/泗阳已开通线上数据准备.md",
+                "file": "Work/环境安装.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "泗阳已开通线上数据准备"
+              "title": "环境安装"
             }
           }
         ]
@@ -207,10 +207,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dc82e3eeef189c8e",
+  "active": "7797ebaf78259e84",
   "lastOpenFiles": [
-    "Work/泗阳一卡通/泗阳一卡通刷数据.md",
     "Work/泗阳一卡通/泗阳已开通线上数据准备.md",
+    "Work/环境安装.md",
+    "Work/泗阳一卡通/泗阳一卡通刷数据.md",
     "Work/泗阳一卡通/泗阳一卡通二期.md",
     "Work/泗阳一卡通/泗阳一卡通.md",
     "Work/魔盒/t3对接.md",
@@ -238,7 +239,6 @@
     "Spring/04.spring_bean_collection.md",
     "Spring/03.spring_BeanPostProcessor.md",
     "springboot/什么是Oath2.0协议？.md",
-    "Spring Security/未命名.md",
     "Spring Security",
     "linux",
     "Work/泗阳一卡通",
